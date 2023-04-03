@@ -1,0 +1,24 @@
+/This is for form submission/
+
+Formspree
+
+you can use formspree and register
+Select "new form"
+copy the form's endpoint
+and put your action and method="post" inside the html form section
+You can temporarily do this by the time you learn the backend language first
+
+/Pushing the site for production, hosting service/
+
+Netlify account
+
+sign up for netlify account
+- click add new site
+- deploy manually (drag and drop method)
+- import and existing project ( thru git and github account)
+
+Just drag the entire folder (project with the HTML, CSS and Javascript) and you can get the site link
+Go to site settings and change the site name and edit and all
+You can also use your own domain like Johnsmilga.com
+the project will be online and you can give the url and people can use import
+
